@@ -9,7 +9,6 @@ This project is a Library Management System developed using **Python**, **Tkinte
 - **Delete Book Records**: Remove a book from the library database.
 - **Clear Fields**: Reset the input fields for adding new books.
 - **Change Book Availability**: Update the status of a book (Available/Issued).
-- **Bulk Insert Records**: Insert multiple predefined book records in one click.
 - **View Book Inventory**: Displays all the books available in the library in a table view.
 - **Delete Full Inventory**: Remove all books from the database with a single command.
 
