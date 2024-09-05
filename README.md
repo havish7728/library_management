@@ -1,4 +1,4 @@
-# PythonGeeks Library Management System
+## Library Management System
 
 This project is a Library Management System developed using **Python**, **Tkinter**, and **SQLite3**. It provides a simple GUI interface to manage books in a library, including adding, updating, and removing records. Additionally, the system allows you to change the availability status of books and bulk insert records with a single click.
 
